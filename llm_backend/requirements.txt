@@ -1,0 +1,5 @@
+flask
+flask-cors
+pymongo
+openai            # or comment if mocking LLM first
+python-dotenv

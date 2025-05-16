@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Environment and secrets
+.env
+*.env
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# macOS and system files
+.DS_Store
+
+# Frontend-related
+node_modules/
+
